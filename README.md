@@ -1,6 +1,3 @@
-
-
-
 # Birthday_Congratulation_Autosender
 
 Short description:
